@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MongoDB
 - 😄 Pronouns: he/him
 
-#### Github Stats
+### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=andrewquamme&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 ### Github Streaks
