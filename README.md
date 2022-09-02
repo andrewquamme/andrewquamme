@@ -4,7 +4,7 @@
 <a href="mailto:andrewquamme@gmail.com">![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/andrewquamme/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 - 🔭 I’m currently working on completing my BS at the University of Arizona
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning Kotlin, Jupyter Notebook
 - ⚡ Fun fact: I hold an Amateur Extra Class radio license
 - 😄 Pronouns: he/him
 
